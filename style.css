@@ -1,0 +1,30 @@
+#DisplayButton{
+    width: 270px;
+    height: 50px;
+    margin: 0%;
+
+
+}
+.Mainbody{
+    padding-left: 500px;
+    padding-top: 100px;
+    margin-left: auto;
+}
+.calc{
+    height: 423px;
+    width: 350px;
+    background-color: antiquewhite;
+}
+.Disp{
+padding-left: 45px;
+}
+.row{
+    
+margin-top: 27px;
+}
+.clicker{
+    width: 63px;
+    height: 47px;
+    margin-left: 16px;
+    margin-top: 3px;
+}
